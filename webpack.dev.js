@@ -15,7 +15,7 @@ module.exports = merge(common(), {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'test page'
+      title: 'tampermonkey-vue-template'
     }),
     new webpack.HotModuleReplacementPlugin() // hot reload
   ]

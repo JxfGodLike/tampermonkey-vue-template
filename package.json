@@ -1,5 +1,5 @@
 {
-  "name": "tampermonkey-vue",
+  "name": "tampermonkey-vue-template",
   "version": "1.0.0",
   "description": "使用Vue Element-UI构建油猴TamperMonkey插件",
   "author": "harry",
@@ -24,7 +24,7 @@
     "dotenv-cli": "^4.0.0",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^4.5.0",
-    "node-sass": "^5.0.0",
+    "sass": "^1.0.0",
     "sass-loader": "^10.1.0",
     "style-loader": "^2.0.0",
     "vue-loader": "^15.9.5",
